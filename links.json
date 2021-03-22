@@ -1,0 +1,154 @@
+links: [
+		    {
+		        to     : '/',
+		        icon   : 'mdi-view-dashboard',
+		        text   : 'Direccion',
+		    },
+		    {
+		        icon     : 'mdi-tennis',
+		        text     : 'Ordenes y solicitudes',
+		        subLinks : [
+		            {
+		                text : 'Players list 1',
+		                to    : '/players',
+		                icon     : 'mdi-tennis',
+		            },
+		            {
+		                text : 'Import WTA Players 1',
+		                to    : '/players/import',
+		                icon     : 'mdi-tennis',
+		            },
+		            {
+				        icon     : 'mdi-tennis',
+				        text     : 'Submenu de OS',
+				        subLinks : [
+				            {
+				                text : 'Players list 2',
+				                to    : '/players',
+				                icon     : 'mdi-tennis',
+				            },
+				            {
+				                text : 'Import WTA Players 2',
+				                to    : '/players/import',
+				                icon     : 'mdi-tennis',
+				            },
+				            {
+						        icon     : 'mdi-tennis',
+						        text     : 'Submenu de OS2',
+						        subLinks : [
+						            {
+						                text : 'Players list 3',
+						                to    : '/players',
+						                icon     : 'mdi-tennis',
+						            },
+						            {
+						                text : 'Import WTA Players 3',
+						                to    : '/players/import',
+						                icon     : 'mdi-tennis',
+						            },
+						        ]
+						    },
+				        ]
+				    },
+		        ]
+		    },
+		    {
+		        icon     : 'mdi-tennis',
+		        text     : 'Credito',
+		        subLinks : [
+		            {
+		                text : 'Players list',
+		                to    : '/players',
+		                icon     : 'mdi-tennis',
+		            },
+		            {
+		                text : 'Import WTA Players',
+		                to    : '/players/import',
+		                icon     : 'mdi-tennis',
+		            },
+		            {
+				        icon     : 'mdi-tennis',
+				        text     : 'sub menu Credito',
+				        subLinks : [
+				            {
+				                text : 'Players list',
+				                to    : '/players',
+				                icon     : 'mdi-tennis',
+				            },
+				            {
+				                text : 'Import WTA Players',
+				                to    : '/players/import',
+				                icon     : 'mdi-tennis',
+				            },
+				        ]
+				    },
+				    {
+				        icon     : 'mdi-tennis',
+				        text     : 'sub menu Credito2',
+				        subLinks : [
+				            {
+				                text : 'Players list',
+				                to    : '/players',
+				                icon     : 'mdi-tennis',
+				            },
+				            {
+				                text : 'Import WTA Players',
+				                to    : '/players/import',
+				                icon     : 'mdi-tennis',
+				            },
+				        ]
+				    },
+		        ]
+		    },
+
+		    {
+		        icon     : 'mdi-tennis',
+		        text     : 'Cobranza',
+		        subLinks : [
+		            {
+		                text : 'Players list',
+		                to    : '/players',
+		                icon     : 'mdi-tennis',
+		            },
+		            {
+		                text : 'Import WTA Players',
+		                to    : '/players/import',
+		                icon     : 'mdi-tennis',
+		            },
+		        ]
+		    },
+
+		    {
+		        icon     : 'mdi-tennis',
+		        text     : 'Gestion Proteo',
+		        subLinks : [
+		            {
+		                text : 'Players list',
+		                to    : '/players',
+		                icon     : 'mdi-tennis',
+		            },
+		            {
+		                text : 'Import WTA Players',
+		                to    : '/players/import',
+		                icon     : 'mdi-tennis',
+		            },
+		        ]
+		    },
+
+		    {
+		        icon     : 'mdi-tennis',
+		        text     : 'Tesoreria',
+		        subLinks : [
+		            {
+		                text : 'Players list',
+		                to    : '/players',
+		                icon     : 'mdi-tennis',
+		            },
+		            {
+		                text : 'Import WTA Players',
+		                to    : '/players/import',
+		                icon     : 'mdi-tennis',
+		            },
+		        ]
+		    },
+		]
